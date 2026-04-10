@@ -4,7 +4,7 @@ project:
   title:        "FullAddterTest"          # Project title
   author:       "Paola"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "This is a simple FullAdder"      # One line description of what your project does
+  description:  "This is a simple Full Adder"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     5000000       # Clock frequency in Hz (or 0 if not applicable)
 
